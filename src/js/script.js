@@ -82,9 +82,7 @@ $(document).ready(function () {
 		});
 	}
 
-
 	// Scroll up
-
 	const scrollUpBtn = document.querySelector('.scroll-up');
 
 	window.addEventListener('scroll', () => {
